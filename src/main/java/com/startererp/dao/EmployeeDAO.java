@@ -9,7 +9,7 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
-
+//EmployeeDAO Class
 public class EmployeeDAO {
 
     public EmployeeDTO getEmployeeByUsername(String username) {
